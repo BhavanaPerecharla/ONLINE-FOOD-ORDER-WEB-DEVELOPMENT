@@ -42,7 +42,7 @@ Admin can:<br/>
 </ol>
 
 ### Screenshots
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
+Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/BhavanaPerecharla/ONLINE-FOOD-ORDER-WEB-DEVELOPMENT/tree/main/screenshots">click here</a>
 
 ## Built With
 ![PHP](https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&amp;logo=php&amp;logoColor=white)
