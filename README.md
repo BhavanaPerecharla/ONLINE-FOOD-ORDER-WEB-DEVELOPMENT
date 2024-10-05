@@ -15,28 +15,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
 
-# Online-Food-Ordering-Web-App
-Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: http://food.kajadhav.me
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#system-description-and-functions">System Description and Functions</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#authors">Authors</a></li>
-    <li><a href="#links">Links</a></li>
-  </ol>
-</details>
 
-## System Description and Functions
-**Live Demo:** http://food.kajadhav.me<br/>
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png"><br/>
-
-**Admin Creds:** <br/>
-Admin Login & Password (You can change this in phpmyadmin):<br/>
-Login: admin <br>
-Password: Demopass@123<br>
 
 There are two roles in the system: **Admin** and **User**.<br/><br/>
 Users can:<br/>
@@ -83,23 +62,4 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 <li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
 </ol>
 
-## Authors
-### Kaushik Jadhav
-<ul>
-<li>Github: https://github.com/kaushikjadhav01</li>
-<li>Medium: https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn: https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio: http://kajadhav.me/</li>
-<li>Linked In: https://www.linkedin.com/in/kajadhav/
-<li>Dev.to: https://dev.to/kaushikjadhav01
-<li>Codesignal: https://app.codesignal.com/profile/kaushik_j_vtc
-<li>Google Scholar: https://scholar.google.com/citations?user=iRYcFi0AAAAJ
-<li>Daily.dev: https://app.daily.dev/kaushikjadhav01
-<li>Google devs: https://developers.google.com/profile/u/kaushikjadhav01
-<li>Stack Overflow: https://stackoverflow.com/users/21890981/kaushik-jadhav
-</ul>
 
-## Links
-* [Web site](http://food.kajadhav.me/)
-* [Issue tracker](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/issues)
-* [Source code](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App)
